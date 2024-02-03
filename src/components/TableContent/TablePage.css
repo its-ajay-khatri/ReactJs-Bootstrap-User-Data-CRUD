@@ -1,0 +1,13 @@
+.table-outer-section{
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.not-found-text{
+    height: 80vh;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: red;
+}

@@ -1,0 +1,19 @@
+.table-headings{
+    cursor: pointer;
+}
+
+@media screen and (max-width: 750px) {
+    .table-inner-section{
+        overflow-x: auto;
+    }
+    
+    .table-inner-section table{
+        margin: 0 13px;
+    }
+}
+
+@media screen and (max-width:700px) {
+    .table-buttons-column {
+        display: flex;
+    }
+}
